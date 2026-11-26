@@ -1,0 +1,139 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "size": 7755,
+      "sha256": "f9516865b405e7cb81497fb708ab6ea23e5c8d8e0187c9f712383beb2c1c5e88"
+    },
+    {
+      "path": "TABLE_6.md",
+      "size": 1317,
+      "sha256": "8bd6827c83b942f7ea48a9d07fb0a69baaa1cfe3177636724e2d0cad5215d9d8"
+    },
+    {
+      "path": "analysis/actions.py",
+      "size": 2953,
+      "sha256": "78b9bd3ec5e836afa17b8ca71f0ee3bdb469186c873c710da83d07a95965eec6"
+    },
+    {
+      "path": "analysis/carrier_parser.py",
+      "size": 3973,
+      "sha256": "d778377d4e8f19a8c6b92d277537a71b422ffd36a83458388ce4dfe903b0bb19"
+    },
+    {
+      "path": "analysis/physics_check.py",
+      "size": 9584,
+      "sha256": "90a9f1291818dceae090cf1d52f2010a4b5bbcd6d71d1939635f60e20915c578"
+    },
+    {
+      "path": "analysis/plant.py",
+      "size": 29201,
+      "sha256": "abb7766f9c7a7fe61628e6c53a714551d165faf820ebbb494f079330c685932a"
+    },
+    {
+      "path": "analysis/prompt_protocol.py",
+      "size": 12299,
+      "sha256": "9f973f6a2f2e1e0d35499b9c4a3b58798628f8b36286556180013ab1aabcf9d9"
+    },
+    {
+      "path": "analysis/schedule-prompt.txt",
+      "size": 1499,
+      "sha256": "43ad26a958ceb2181ef9740c21cd1bfd6fe44be79e0d85591830b3ee67a0f815"
+    },
+    {
+      "path": "analysis/schedule_parser.py",
+      "size": 3933,
+      "sha256": "cb8826154dfb676570e3699db27a721f73739666715df5e8fec8544a27c6f8ee"
+    },
+    {
+      "path": "compare.py",
+      "size": 1155,
+      "sha256": "c889c2e9f15b0413d975ba4282e34d7bdad38d5becfa99032d7812c9e67be765"
+    },
+    {
+      "path": "data/E2_projection.jsonl",
+      "size": 278206,
+      "sha256": "2862c27479fcfb6454bb2b269cb9b90c3dfb9a97618f314e155596cc4634ceff"
+    },
+    {
+      "path": "data/admission.jsonl",
+      "size": 100538,
+      "sha256": "bb385f5f12b3fedef27293bb2078749640e2ce57d557d6f0e8de278edf63dca6"
+    },
+    {
+      "path": "data/attempt_outcomes.jsonl",
+      "size": 522006,
+      "sha256": "3815a6ad38828a8f5f00f4cc41fd2a48a960e7aad0efbda5a40d79431d1c78ab"
+    },
+    {
+      "path": "data/call_plan.jsonl",
+      "size": 98235,
+      "sha256": "d74e73145c25d4191a16aa2169259d9331aa86c0bd5029050ca4805c5328dbe0"
+    },
+    {
+      "path": "data/requests.jsonl",
+      "size": 18269891,
+      "sha256": "a24d6eda0416bf5cfee02e5b8366adde042fafd8c902f8f9a293c68a0b11351c"
+    },
+    {
+      "path": "data/responses.jsonl",
+      "size": 5098048,
+      "sha256": "a2dbe340e6a997adcbbf44c6b71cdfe656126dedeb674b2816e2a61ee6864af5"
+    },
+    {
+      "path": "data/scenarios.json",
+      "size": 1420502,
+      "sha256": "2d5efb905484b31a2b4d740f5253975b59ed49161d8ff27a7080c646dea9d796"
+    },
+    {
+      "path": "data/service_interval.json",
+      "size": 45,
+      "sha256": "781e6df2e8baead83bfb9cb83a5fb6255c681378c35a8da0ac250f5c93309416"
+    },
+    {
+      "path": "data/solutions.jsonl",
+      "size": 7221004,
+      "sha256": "a118ca1fa855d3b58c1359e779edebf7a437b8354c319fc951a25ac32ce9a5a3"
+    },
+    {
+      "path": "data/witnesses.jsonl",
+      "size": 7680,
+      "sha256": "bc91fcf2984fbffa44f99858d2ce385dd01727f6441543da8c08c3949a6db600"
+    },
+    {
+      "path": "licenses/CC-BY-4.0.txt",
+      "size": 18656,
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "licenses/MIT.txt",
+      "size": 1081,
+      "sha256": "9732d1acfeaea7916d0cc993f9522f9a0774e1104d95fc48f59ea893de828f59"
+    },
+    {
+      "path": "paper_values.json",
+      "size": 7688,
+      "sha256": "ba3b5a1b05127fb9df71ca14edd620ed89a4b18c452e75a65732a98e4c46f360"
+    },
+    {
+      "path": "reproduce.py",
+      "size": 18309,
+      "sha256": "13f5e65c5cce20bc2369a689d5dff72e5f58f3df51926b470887c56c805f0aa2"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 27,
+      "sha256": "56b0f6a2aefb16d057a33511ef52b3eeae35b7debe92536121fa5749d460a5cd"
+    },
+    {
+      "path": "scaffold.py",
+      "size": 7168,
+      "sha256": "c873563b77e39656042fcd1d7925928588f7049789cd340acecb3e9bca6e106e"
+    },
+    {
+      "path": "tools/verify_public.py",
+      "size": 6946,
+      "sha256": "b4f71977b3172ede7aff2108209fd0c4c4df763dcf153724233cccd2d340b3d6"
+    }
+  ]
+}
